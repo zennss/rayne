@@ -431,11 +431,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   homeButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
+    switchTheme('https://www.dropbox.com/scl/fi/brwv8qv54lkb5mhgx2zck/1193421_neheart-x-reidenshi-snow.mp3?rlkey=u3kmp66oogcw4sjtfneyx036p&st=otusw5kv&dl=0', backgroundMusic, 'home-theme');
   });
   homeButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
+    switchTheme('https://www.dropbox.com/scl/fi/brwv8qv54lkb5mhgx2zck/1193421_neheart-x-reidenshi-snow.mp3?rlkey=u3kmp66oogcw4sjtfneyx036p&st=otusw5kv&dl=0', backgroundMusic, 'home-theme');
   });
 
   hackerButton.addEventListener('click', () => {
