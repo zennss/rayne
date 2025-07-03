@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "ta min kuk neger.",
-    "\"Hello, World!\""
+    "@asxpq on dc / check out my socials..",
+    "\"@asxpq.!\""
   ];
   let bioText = '';
   let bioIndex = 0;
